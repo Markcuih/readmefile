@@ -34,7 +34,7 @@
   <h3 align="center">README-GP/Clinic System</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Welcome to README-GP/Clinic System to start the project!
     <br />
     <a href="https://github.com/othneildrew/README-GP/Clinic System"><strong>Explore the docs »</strong></a>
     <br />
