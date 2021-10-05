@@ -80,9 +80,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
+ ![Patient-Information-Management-System.jpg](https://github.com/Markcuih/readmefile/blob/master/Patient-Information-Management-System.jpg)
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-[![Patient-Information-Management-System.jpg][Patient-Information-Management-System.jpg]](Patient-Information-Management-System.jpg)
-Patient-Information-Management-System.jpg
 
 Monash patient system was designed as dedicating to help patients search for nearby GPs and clinics according to their needs and make appointments for timely medical checkups
 
