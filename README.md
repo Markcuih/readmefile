@@ -81,6 +81,9 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Patient-Information-Management-System.jpg][Patient-Information-Management-System.jpg]](Patient-Information-Management-System.jpg)
+Patient-Information-Management-System.jpg
+
 Monash patient system was designed as dedicating to help patients search for nearby GPs and clinics according to their needs and make appointments for timely medical checkups
 
 Through the user manual, users can get quick and clear guidance to operate the system more conveniently.
